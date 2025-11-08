@@ -1,4 +1,7 @@
-const API_KEY = '6a98d033df7226983b3920af0398cfdd';
+import dotenv from 'dotenv';
+dotenv.config();
+
+const API_KEY = import.meta.env.VITE_API_KEY;
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
 export const getLocaltionWeather = async () => {
