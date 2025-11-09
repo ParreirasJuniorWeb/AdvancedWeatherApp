@@ -52,19 +52,19 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## Autor
 Desenvolvido por João Victor Parreiras Soares.
 Contato: [joaoparreiras2020@gmail.com]
-GitHub: [[ParreirasJuniorWeb](https://github.com/ParreirasJuniorWeb)]
-LinkedIn: [[linkedin.com/in/jvparreiras](https://www.linkedin.com/in/jvparreiras/)]
+GitHub: [ParreirasJuniorWeb](https://github.com/ParreirasJuniorWeb)
+LinkedIn: [linkedin.com/in/jvparreiras](https://www.linkedin.com/in/jvparreiras/)
 
 ## Agradecimentos
 Agradeço a todos que contribuíram para este projeto, seja através de sugestões, feedbacks ou código.
 Especial agradecimento à OpenWeatherMap pela API gratuita e aos desenvolvedores das bibliotecas utilizadas neste projeto.
 
 ### 🎓 Créditos de inspiração:
-Projeto baseado no excelente vídeo da [[Online IT Tuts](https://www.youtube.com/@OnlineITtuts)]: 
+Projeto baseado no excelente vídeo da [Online IT Tuts](https://www.youtube.com/@OnlineITtuts): 
 
-🎥 [[How to Build a Weather App Using React and APIs](https://www.youtube.com/watch?v=KdTJllXlQUY)]
+🎥 [How to Build a Weather App Using React and APIs](https://www.youtube.com/watch?v=KdTJllXlQUY)
 
-### Canal do YouTube do [[OnlineITtuts Tutorials (@OnlineITtuts)](https://www.youtube.com/@OnlineITtuts)]
-Vídeo do YouTube: [[🎥 How to Build a Weather App Using React and APIs](https://www.youtube.com/watch?v=KdTJllXlQUY)].
+### Canal do YouTube do [OnlineITtuts Tutorials (@OnlineITtuts)](https://www.youtube.com/@OnlineITtuts)
+Vídeo do YouTube: [🎥 How to Build a Weather App Using React and APIs](https://www.youtube.com/watch?v=KdTJllXlQUY).
 
-Meus agradecimentos ao canal do YouTube [[Online IT Tuts](https://www.youtube.com/@OnlineITtuts)] por mais um projeto inspirador para colocar minhas habilidades de front-end em prática e para colocar mais um projetinho em meu portfólio. 
+Meus agradecimentos ao canal do YouTube [Online IT Tuts](https://www.youtube.com/@OnlineITtuts) por mais um projeto inspirador para colocar minhas habilidades de front-end em prática e para colocar mais um projetinho em meu portfólio. 
